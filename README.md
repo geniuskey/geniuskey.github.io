@@ -13,6 +13,11 @@
 | Geniuskey Arcade | [/arcade](https://pages.euiyun.com/arcade/) | 설치 없이 즐기는 22개 브라우저 게임 |
 | trofeo-lcd | [/trofeo-lcd](https://pages.euiyun.com/trofeo-lcd/) | Thermalright Trofeo Vision 9.16" LCD용 PC 상태 + Claude/Codex 사용량 대시보드 |
 | Ulanzi Lite | [/ulanzi-d200x](https://pages.euiyun.com/ulanzi-d200x/) | Ulanzi D200X용 포터블 Windows 컨트롤러 (단축키, 오디오, AI 사용량) |
+| Glossary | [/glossary](https://pages.euiyun.com/glossary/) | 한/영 조직용 셀프호스팅 용어집 관리 플랫폼 |
+| Korea Privacy Dev Guide | [/privacy-guide](https://pages.euiyun.com/privacy-guide/) | 개발자를 위한 개인정보 보호·정보보안 실무 가이드 |
+| Mac 가격 비교 | [/mac-prices](https://pages.euiyun.com/mac-prices/) | M1 이후 Mac 전 모델 한국 정가 비교 |
+| AI-Ready Data | [/AI-Ready-Data](https://pages.euiyun.com/AI-Ready-Data/) | Data Ready + Knowledge Ready 준비도 진단과 90일 로드맵 |
+| MemoCast | [/MemoCast](https://pages.euiyun.com/MemoCast/) | DRAM/NAND/HBM 메모리 수요 예측 위키와 시뮬레이터 |
 
 ## 구조
 
