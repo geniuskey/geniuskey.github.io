@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://pages.euiyun.com/sitemap.xml
 Sitemap: https://pages.euiyun.com/ic-studio/sitemap.xml
+Sitemap: https://pages.euiyun.com/klayout-draw-mcp/sitemap.xml
+Sitemap: https://pages.euiyun.com/lottery/sitemap.xml
