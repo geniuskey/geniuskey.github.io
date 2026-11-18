@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Euiyun Pages | 만들고 있는 것들</title>
-  <meta name="description" content="pages.euiyun.com 에서 운영 중인 프로젝트 모음. 오픈소스 IC 설계 툴 IC Studio, KLayout MCP 서버, 이미지 센서 광학 시뮬레이터 COMPASS, 추첨 게임 PLAYPICK, 브라우저 게임 Arcade, Ulanzi D200X 컨트롤러 Ulanzi Lite, Trofeo Vision LCD 대시보드 trofeo-lcd, 용어집 플랫폼 Glossary, 개인정보 개발 가이드 Korea Privacy Dev Guide, Mac 가격 비교, AI-Ready Data, 메모리 수요 예측 위키 MemoCast." />
+  <meta name="description" content="pages.euiyun.com 에서 운영 중인 프로젝트 모음. 오픈소스 IC 설계 툴 IC Studio, KLayout MCP 서버, 이미지 센서 광학 시뮬레이터 COMPASS, 추첨 게임 PLAYPICK, 브라우저 게임 Arcade, Ulanzi D200X 컨트롤러 Ulanzi Lite, Trofeo Vision LCD 대시보드 trofeo-lcd, 용어집 플랫폼 Glossary, 개인정보 개발 가이드 Korea Privacy Dev Guide, Mac 가격 비교, AI-Ready Data, 메모리 수요 예측 위키 MemoCast, 웹 BPMN 2.0 에디터 BPMN Flow." />
   <link rel="canonical" href="https://pages.euiyun.com/" />
   <meta name="color-scheme" content="dark" />
   <meta name="theme-color" content="#07080d" />
@@ -41,7 +41,8 @@
       { "@type": "WebSite", "name": "Korea Privacy Dev Guide", "url": "https://pages.euiyun.com/privacy-guide/" },
       { "@type": "WebApplication", "name": "Mac 가격 비교", "url": "https://pages.euiyun.com/mac-prices/" },
       { "@type": "WebSite", "name": "AI-Ready Data", "url": "https://pages.euiyun.com/AI-Ready-Data/" },
-      { "@type": "WebSite", "name": "MemoCast", "url": "https://pages.euiyun.com/MemoCast/" }
+      { "@type": "WebSite", "name": "MemoCast", "url": "https://pages.euiyun.com/MemoCast/" },
+      { "@type": "WebApplication", "name": "BPMN Flow", "url": "https://pages.euiyun.com/bpmn-flow/" }
     ]
   }
   </script>
@@ -240,6 +241,7 @@
       padding: 26px 28px; border-radius: 22px; border: 1px dashed var(--line-strong); color: var(--muted);
       background: repeating-linear-gradient(-45deg, transparent 0 14px, rgba(255, 255, 255, .015) 14px 28px);
     }
+    @media (min-width: 901px) { .soon { grid-column: span 2; } }
     .soon strong { color: var(--ink); font-family: var(--display); font-size: 20px; letter-spacing: -.02em; }
     .typing { font: 500 13px var(--mono); color: var(--lime); }
     .typing::after { content: "_"; animation: blink 1s steps(1) infinite; }
@@ -333,7 +335,7 @@
       </a>
 
       <div class="stats reveal" style="--d:.1s">
-        <div class="stat"><b data-count="12">0</b><span>공개 중인 프로젝트</span></div>
+        <div class="stat"><b data-count="13">0</b><span>공개 중인 프로젝트</span></div>
         <div class="stat"><b data-count="22">0</b><span>Arcade 게임 월드</span></div>
         <div class="stat"><b data-count="21">0</b><span>PLAYPICK 추첨 게임</span></div>
         <div class="stat"><b data-count="9">0</b><span>COMPASS EM 솔버</span></div>
@@ -467,6 +469,16 @@
               <h3>AI-Ready Data</h3>
               <p>데이터는 읽을 수 있게, 지식은 믿을 수 있게. Data Ready와 Knowledge Ready 두 축으로 준비도를 진단하고 첫 90일 행동을 정합니다.</p>
               <div class="meta"><span class="url">/AI-Ready-Data</span><span class="go" aria-hidden="true">&rarr;</span></div>
+            </div>
+          </a>
+        </li>
+        <li class="reveal" style="--d:.16s">
+          <a class="card" href="/bpmn-flow/" style="--c:#7c83ff" data-node="BPMN Flow" data-sub="BPMN 2.0 editor">
+            <div class="thumb"><span class="badge">PROCESS MODELING</span><img src="assets/img/bpmn-flow.webp" alt="BPMN Flow 에디터 화면" width="1200" height="630" loading="lazy" /></div>
+            <div class="body">
+              <h3>BPMN Flow</h3>
+              <p>브라우저에서 BPMN 2.0 XML을 열고, 편집하고, 분석하는 프로세스 에디터. 설치 없이 바로 쓰고, 이해하지 못하는 내용도 잃지 않습니다.</p>
+              <div class="meta"><span class="url">/bpmn-flow</span><span class="go" aria-hidden="true">&rarr;</span></div>
             </div>
           </a>
         </li>

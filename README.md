@@ -18,6 +18,7 @@
 | Mac 가격 비교 | [/mac-prices](https://pages.euiyun.com/mac-prices/) | M1 이후 Mac 전 모델 한국 정가 비교 |
 | AI-Ready Data | [/AI-Ready-Data](https://pages.euiyun.com/AI-Ready-Data/) | Data Ready + Knowledge Ready 준비도 진단과 90일 로드맵 |
 | MemoCast | [/MemoCast](https://pages.euiyun.com/MemoCast/) | DRAM/NAND/HBM 메모리 수요 예측 위키와 시뮬레이터 |
+| BPMN Flow | [/bpmn-flow](https://pages.euiyun.com/bpmn-flow/) | 브라우저 기반 BPMN 2.0 에디터 및 프로세스 분석기 |
 
 ## 구조
 
